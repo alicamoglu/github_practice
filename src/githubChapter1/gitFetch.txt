@@ -1,0 +1,5 @@
+--------------------------------fetch (holen) ----------------------------------
+--------------------------------------------------------------------------------
+git fetch               (If you don't want to merge the code immediately (you may want to review
+the changes first), you can do a git fetch instead of git pull.) (changes come to log and are to be seen
+but changes don't come to files in local repository)
