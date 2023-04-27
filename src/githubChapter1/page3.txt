@@ -1,3 +1,5 @@
 creat a remote repository under your github account
 connected your local repository to the remote repository created above
 pushed your local repository commits to the remote repository
+
+adding for changes file in commit
